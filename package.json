@@ -1,0 +1,41 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "core-util-is": "^1.0.3",
+    "deepmerge": "^4.3.1",
+    "excel4node": "^1.8.2",
+    "image-size": "^1.0.2",
+    "immediate": "^3.0.6",
+    "inherits": "^2.0.4",
+    "isarray": "^1.0.0",
+    "jszip": "^3.10.1",
+    "lie": "^3.3.0",
+    "lodash.get": "^4.4.2",
+    "lodash.isequal": "^4.5.0",
+    "lodash.isundefined": "^3.0.1",
+    "lodash.reduce": "^4.6.0",
+    "lodash.uniqueid": "^4.0.1",
+    "mime": "^3.0.0",
+    "pako": "^1.0.11",
+    "process-nextick-args": "^2.0.1",
+    "queue": "^6.0.2",
+    "readable-stream": "^2.3.8",
+    "safe-buffer": "^5.1.2",
+    "setimmediate": "^1.0.5",
+    "shelljs": "^0.8.5",
+    "string_decoder": "^1.1.1",
+    "util-deprecate": "^1.0.2",
+    "uuid": "^9.0.1",
+    "xlsx": "^0.18.5",
+    "xmlbuilder": "^15.1.1",
+    "xslx": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
